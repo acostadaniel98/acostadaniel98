@@ -1,15 +1,6 @@
 <h1 align="center">Hola, soy Daniel Acosta</h1>
 <h3 align="center">Ingeniero de Software Full Stack | .NET · React · TypeScript · SQL Server</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ingdanielacosta">
-    <img src="https://img.shields.io/badge/LinkedIn-1A3A5C?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:acosta.daniel98@outlook.com">
-    <img src="https://img.shields.io/badge/Email-1A3A5C?style=flat&logo=microsoftoutlook&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### Sobre mí
@@ -58,14 +49,5 @@ mismos principios a sistemas críticos de negocio.
 `Desarrollo de ERP` · `Sistemas logísticos` · `Gestión de inventarios` · `Finanzas corporativas`
 `Comercio electrónico` · `Arquitectura REST` · `Integraciones con ERP` · `Optimización de consultas SQL`
 `Seguridad aplicativa (JWT, RBAC, CORS/CSRF)`
-
----
-
-### Actividad
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=acostadaniel98&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=acostadaniel98&hide_border=true" width="48%" />
-</p>
 
 ---
